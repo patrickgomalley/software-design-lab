@@ -1,5 +1,5 @@
 
-# $Patrick O'Malley's Course Goals
+# Patrick O'Malley's Course Goals
 
 ## Goal One
 1. To learn more about using packages in Python such as NLTK so I could analyze texts.
